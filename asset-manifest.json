@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newtonreactproject/static/css/main.b04d86e2.css",
+    "main.js": "/newtonreactproject/static/js/main.0845aaa2.js",
+    "index.html": "/newtonreactproject/index.html",
+    "main.b04d86e2.css.map": "/newtonreactproject/static/css/main.b04d86e2.css.map",
+    "main.0845aaa2.js.map": "/newtonreactproject/static/js/main.0845aaa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04d86e2.css",
+    "static/js/main.0845aaa2.js"
+  ]
+}
